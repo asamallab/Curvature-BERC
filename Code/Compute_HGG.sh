@@ -2,6 +2,7 @@
 # Compute HGG for networks of global indices
 #
 # To run this script "HyperbolicGraphGenerator-1.0.3" folder is needed, which can be found: https://github.com/mwarning/Hyperbolic-Graph-Generator 
+#
 ## Terminal comand
 # ./Compute_HGG.sh 1000 3
 # 
