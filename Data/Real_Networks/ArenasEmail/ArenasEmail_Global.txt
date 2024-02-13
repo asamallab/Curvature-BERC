@@ -1,0 +1,2 @@
+Number_of_nodes	Number_of_edges	Fraction_of_nodes_inlcc	Average_degree	Edge_density	Mean_shortest_path_length
+1133	5451	1.0	9.62224183583407	0.00850021363589582	3.606032017315423

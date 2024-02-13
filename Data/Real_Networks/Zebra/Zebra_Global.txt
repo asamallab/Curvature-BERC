@@ -1,0 +1,2 @@
+Number_of_nodes	Number_of_edges	Number_of_nodes_inlcc	Number_of_edges_inlcc	Fraction_of_nodes_inlcc	Maximum_degree	Average_degree	Mean_shortest_path_length	Average_clustering_coefficent	Degree_assortativity	Edge_density
+27	111	23	105	0.8518518518518519	14	8.222222222222221	1.8616600790513833	0.8759142092475427	0.7177029474921698	0.3162393162393162

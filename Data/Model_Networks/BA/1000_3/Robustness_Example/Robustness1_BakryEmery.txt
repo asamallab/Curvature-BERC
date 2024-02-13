@@ -1,0 +1,2 @@
+Fraction_of_nodes	Efficiency
+0.001	0.29148223039480786
