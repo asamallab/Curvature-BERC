@@ -5,7 +5,7 @@
 # A program to compute the Non-Normalized Ollivier-Ricci curvature of a given undirected graph.
 #
 # Reference:
-# 1) M. Mondal, A. Samal, F. M\"unch & J. Jost, Bakry-\'Emery curvature: An alternative network geometry measure in the expanding toolbox of graph Ricci curvatures.
+# 1) M. Mondal, A. Samal, F. M\"unch & J. Jost, Bakry-\'Emery-Ricci curvature: An alternative network geometry measure in the expanding toolbox of graph Ricci curvatures.
 # 2) A. Samal, R.P. Sreejith, J. Gu, S. Liu, E. Saucan & J. Jost, Comparative analysis of two discretizations of Ricci curvature for complex networks, Scientific Reports 8: 8650 (2018).
 # 3) Ni, C.-C., Lin, Y.-Y., Gao, J., Gu, X., & Saucan, E. (2015). Ricci curvature of the Internet topology (Vol. 26, pp. 2758-2766). Presented at the 2015 IEEE Conference on Computer Communications (INFOCOM), IEEE.
 #
