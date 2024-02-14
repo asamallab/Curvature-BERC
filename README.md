@@ -5,7 +5,7 @@ Bakry-Émery-Ricci curvature: An alternative network geometry measure in the exp
 Madhumita Mondal, Areejit Samal*, Florentin Münch*, and Jürgen Jost*.
 (* Corresponding author)
 
-<img src="Schematic.pdf">
+<img src="Schematic.jpg">
 
 The repository contains three folders: Code, Data and Figures. Description of the files contained in each folder is provided below.
 
