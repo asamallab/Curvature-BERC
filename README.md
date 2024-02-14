@@ -1,7 +1,7 @@
 Readme:
 
 This repository contains the codes and data associated with the following manuscript: <br>
-Bakry-Émery-Ricci curvature: An alternative network geometry measure in the expanding toolbox of graph Ricci curvatures
+Bakry-Émery-Ricci curvature: An alternative network geometry measure in the expanding toolbox of graph Ricci curvatures <br>
 Madhumita Mondal, Areejit Samal*, Florentin Münch*, and Jürgen Jost*.
 (* Corresponding author)
 
