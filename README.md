@@ -1,36 +1,37 @@
-Readme:
+# Curvature-BERC
 
+## About
 This repository contains the codes and data associated with the following manuscript: <br>
-Bakry-Émery-Ricci curvature: An alternative network geometry measure in the expanding toolbox of graph Ricci curvatures <br>
-Madhumita Mondal, Areejit Samal*, Florentin Münch*, and Jürgen Jost*.
+
+Madhumita Mondal, Areejit Samal*, Florentin Münch*, and Jürgen Jost*, <i>Bakry-Émery-Ricci curvature: An alternative network geometry measure in the expanding toolbox of graph Ricci curvatures. </i> <br>
 (* Corresponding author)
 
 <img src="Schematic.jpg">
 
-The repository contains three folders: Code, Data and Figures. Description of the files contained in each folder is provided below.
+The repository contains three folders: Code, Data, and Figures. A description of the files contained in each folder is provided below.
 
 ## Code: 
 Contains all the necessary codes to reproduce the results in the manuscript.
 
 1. Compute_HGG.sh: Shell script to generate Hyperbolic random graph.
 
-2. FormanUndirected.cpp: C++ code to calculate Forman-Ricci curvature of a undirected network.
+2. FormanUndirected.cpp: C++ code to calculate Forman-Ricci curvature of an undirected network.
 
-3. FormanTriangleUndirected.cpp: C++ code to calculate Augmented Forman-Ricci curvature of a undirected network.
+3. FormanTriangleUndirected.cpp: C++ code to calculate Augmented Forman-Ricci curvature of an undirected network.
 
-4. OR_NotNorm.py: Python code to calculate Non-normalized Ollivier-Ricci curvature of a undirected network.
+4. OR_NotNorm.py: Python code to calculate the Non-normalized Ollivier-Ricci curvature of an undirected network.
 
-5. BERC_edgelist.ipynb: Mathematica code to calculate Bakry-Emery-Ricci curvature of a undirected network.
+5. BERC_edgelist.ipynb: Mathematica code to calculate Bakry-Emery-Ricci curvature of an undirected network.
 
 6. Compute_Curvatures.sh: Shell script to calculate Forman, Augmented Forman, and Ollivier Ricci curvatures together.
 
-7. Robustness.py: Python code to calculate robustness of a given network.
+7. Robustness.py: Python code to calculate the robustness of a given network.
 
-8. Model_Networks.ipynb: To generate model network and calculate correlation between the vertex measures and robustness.
+8. Model_Networks.ipynb: To generate model network and calculate the correlation between the vertex measures and robustness.
 
 9. Plot_Model_Networks.ipynb: To generate the plots corresponding to model networks.
 
-10. Real_Networks.ipynb: To calculate correlation between the vertex measures and robustness of real networks.
+10. Real_Networks.ipynb: To calculate the correlation between the vertex measures and the robustness of real networks.
 
 11. Plot_Real_Networks.ipynb: To generate the plots corresponding to real networks.
 
