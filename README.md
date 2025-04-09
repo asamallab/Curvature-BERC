@@ -3,7 +3,7 @@
 ## About
 This repository contains the codes and data associated with the following manuscript: <br>
 
-Madhumita Mondal, Areejit Samal*, Florentin Münch*, and Jürgen Jost*, [<i>Bakry-Émery-Ricci curvature: An alternative network geometry measure in the expanding toolbox of graph Ricci curvatures</i>](https://academic.oup.com/comnet/article/12/3/cnae019/7683221), Journal of Complex Networks 12(3):cnae019, 2024. <br>
+Madhumita Mondal, Areejit Samal*, Florentin Münch*, and Jürgen Jost*, [<i>Bakry-Émery-Ricci curvature: an alternative network geometry measure in the expanding toolbox of graph Ricci curvatures</i>](https://academic.oup.com/comnet/article/12/3/cnae019/7683221), Journal of Complex Networks 12(3):cnae019, 2024. <br>
 (* Corresponding authors)
 <br>
 
